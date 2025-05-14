@@ -1,14 +1,24 @@
 # Olá! 👋 Eu sou Gabriel Gaspar Grandolpho
 
-Sou um desenvolvedor júnior apaixonado por criar soluções inovadoras e eficientes. Atualmente, estou focado em **desenvolvimento web** e cursando o **último semestre de Análise e Desenvolvimento de Sistemas**.
+Sou um desenvolvedor front-end júnior focado em criar interfaces modernas, acessíveis e responsivas. Tenho experiência prática com tecnologias amplamente utilizadas no mercado e estou sempre buscando evoluir por meio de projetos, estudos e desafios reais.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** HTML, CSS, JavaScript.  
-- **Interesses:** Desenvolvimento Web, Segurança da Informação, Computação em Nuvem.  
-- **Ferramentas:** Git, GitHub, VS Code.
+- **Linguagens:** HTML, CSS, JavaScript, Java, Python
+- **Frameworks e Bibliotecas:** React, Tailwind CSS
+- **Ferramentas de Desenvolvimento:** Git, GitHub, VS Code
+- **Ferramentas de Design:** Figma, Canva
+- **Áreas de Interesse:** Desenvolvimento Web, Segurança da Informação, Computação em Nuvem
+
+---
+
+## 📚 Atualmente Estudando
+
+- Aprofundamento em React.js
+- Projetos práticos com HTML, CSS, JavaScript e Tailwind
+- Inglês técnico e conversação
 
 ---
 
