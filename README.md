@@ -1,37 +1,24 @@
-👋 Olá! Eu sou Gabriel Gaspar Grandolpho
-Sou um desenvolvedor front-end júnior apaixonado por criar interfaces modernas, acessíveis e responsivas. Tenho experiência prática com tecnologias amplamente utilizadas no mercado e estou sempre buscando evoluir por meio de projetos, estudos e desafios reais.
+# Olá! 👋 Eu sou Gabriel Gaspar Grandolpho
 
-🛠️ Tecnologias e Ferramentas
-Linguagens: HTML, CSS, JavaScript, Java (avançado), Python (básico)
+Sou um desenvolvedor júnior apaixonado por criar soluções inovadoras e eficientes. Atualmente, estou focado em **desenvolvimento web** e cursando o **último semestre de Análise e Desenvolvimento de Sistemas**.
 
-Frameworks e Bibliotecas: React, Tailwind CSS
+---
 
-Ferramentas de Desenvolvimento: Git, GitHub, VS Code
+## 🛠️ Tecnologias e Ferramentas
 
-Ferramentas de Design: Figma, Canva
+- **Linguagens:** HTML, CSS, JavaScript.  
+- **Interesses:** Desenvolvimento Web, Segurança da Informação, Computação em Nuvem.  
+- **Ferramentas:** Git, GitHub, VS Code.
 
-Áreas de Interesse: Desenvolvimento Web, Segurança da Informação, Computação em Nuvem
+---
 
-📚 Atualmente Estudando
-Aprofundamento em React.js
+## 🎓 Formação Acadêmica
 
-Projetos práticos com HTML, CSS, JavaScript e Tailwind
-
-Inglês técnico e conversação
-
-🎓 Formação Acadêmica
-Tecnólogo em Análise e Desenvolvimento de Sistemas
-
-Instituição: Faculdade Anhanguera
-
-Período: Janeiro de 2023 – Dezembro de 2025
-
-Status: Cursando o último semestre
-
-Disciplinas de Destaque:
-
-Desenvolvimento Web
-
-Segurança da Informação
-
-Infraestrutura em Nuvem
+### Análise e Desenvolvimento de Sistemas  
+- **Instituição:** Faculdade Anhanguera  
+- **Duração:** Janeiro de 2023 - Dezembro de 2025  
+- **Status:** Cursando o último semestre  
+- **Disciplinas de Destaque:**
+  - Desenvolvimento Web
+  - Segurança da Informação
+  - Infraestrutura em Nuvem é do github
